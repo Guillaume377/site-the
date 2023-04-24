@@ -335,9 +335,7 @@ cite img {
     font-size: 14px;
     text-align: center;
     font-weight: 400;
-    position: absolute;
-    top: 3690px;
-    right: 455px;
+    
     background-color: white;
     color: green;
     border-radius: 10px;
